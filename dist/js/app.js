@@ -1,1 +1,1 @@
-console.error("SyntaxError: /Users/travis-tiy/TIY-Instructor/t3warmups/warmup-ui-logic-tabbed-content/src/js/app.js: Invalid regular expression flag (47:41) while parsing file: /Users/travis-tiy/TIY-Instructor/t3warmups/warmup-ui-logic-tabbed-content/src/js/app.js");
+console.error("SyntaxError: /Users/shamus/TIY/warmups/warmup-ui-logic-tabbed-content/src/js/app.js: Invalid regular expression flag (47:41) while parsing file: /Users/shamus/TIY/warmups/warmup-ui-logic-tabbed-content/src/js/app.js");
